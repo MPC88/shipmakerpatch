@@ -11,7 +11,8 @@ namespace ShipMaker.Data
         public TFaction manufacturer;
         public ShipClassLevel shipClass = ShipClassLevel.Yacht;
         public ShipRole shipRole;
-        public List<ModelBonus> modelBonus;
+        public List<string> modelBonus;
+        public List<ModelBonus> modelBonus2;
         public int sellChance = 100;
         public bool notSold = false;
         [Tooltip("Ideal AI level (To have full HP on this ship)")]

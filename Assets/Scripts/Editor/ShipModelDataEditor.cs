@@ -67,7 +67,7 @@ namespace ShipMaker.CEditor
             level = serializedObject.FindProperty("level");
             hullPoints = serializedObject.FindProperty("hullPoints");
 
-            modelBonus = serializedObject.FindProperty("modelBonus");
+            modelBonus = serializedObject.FindProperty("modelBonus2");
 
             weaponSpace = serializedObject.FindProperty("weaponSpace");
             equipSpace = serializedObject.FindProperty("equipSpace");
