@@ -6,4 +6,4 @@ Current version includes:
 - Bonus value entries.  
 - Custom bonus: Lateral Injectors - allows rolling at the cost of % of hit points based on ship mass.
 
-To install, download the Assets folder here and replace the files in Fairgon's existing unity porject from the link above.  
+To install, download the Assets folder here (code<> -> download.zip) and replace the files in Fairgon's existing unity porject from the link above.  
