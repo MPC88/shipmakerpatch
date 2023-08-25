@@ -18,7 +18,7 @@ The update RedRoadster.dll will continue to support ships made with previous ver
 The value of a bonus should be comma separated value of each parameter.  For example:		
 bonusName = 001.SB_Armor
 bonusValue = 10, 0.3
-gives +10 armor, +30% armor
+gives +10 armor, +30% armor   (parameter1 = armor bonus, parameter2 = armor mod)
 
 This spreadsheet provides more information:      
 https://docs.google.com/spreadsheets/d/1Y73L7JTdmD8JNqmLiuLUWSW_v-u8-2jE94TtuIjZV4Q/edit?usp=sharing  
