@@ -9,7 +9,7 @@ Current version:
   
 To install, download the repository (code<> -> download.zip):  
 1. Copy the "Assets" folder into the Fairgon's existing Unity project.  Replace all files when prompted.  
-2. deploymentfiles.zip contains 2 .dll files.  User will have to place these into their .\BepInEx\plugins\ folder in order to use your mod.
+2. deploymentfiles contains 2 .dll files.  User will have to place these into their .\BepInEx\plugins\ folder in order to use your mod.
 
 The update RedRoadster.dll will continue to support ships made with previous verisons, however:  
 - Ships made prior to 2.1 with a non read/write enabled icon texture will now work, but the icon will be replaced with a box.  This is due to a change made in the base game (the ship map icons).  
