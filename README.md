@@ -3,7 +3,7 @@ Patch for Fairgon's ship maker unity project https://github.com/Fairgon/ship_mak
 
 Current version:  
 - Adds not sellable flag.  
-- Adds bonus value entry.  
+- Adds bonus value entry.  Note: This only applies for bonuses in the google doc linked below.  Others can be added, but will retain default values.  
 - Adds custom bonus: Lateral Injectors - allows rolling at the cost of % of hit points based on ship mass.
 - Removes invalid bonus "117.SB_DroneMods_Dmg_+8%"
   
